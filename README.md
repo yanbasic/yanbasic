@@ -1,4 +1,4 @@
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanbasic&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanbasic&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yanbasic/yanbasic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
